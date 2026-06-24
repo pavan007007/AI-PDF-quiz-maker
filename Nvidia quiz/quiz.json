@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What do analyses typically relate to?",
+        "options": [
+            "Other past events",
+            "Component parts obtained in an analysis",
+            "Future potential outcomes",
+            "Logical and computational reasoning"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When performing analyses, what is being explained?",
+        "options": [
+            "How something will happen in the future",
+            "Why something happened in the past",
+            "How and/or why something happened",
+            "What something means"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What does analytics generally refer to?",
+        "options": [
+            "Explaining past events",
+            "Exploring potential future outcomes",
+            "Applying logical and computational reasoning",
+            "Analyzing component parts"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary goal of analytics?",
+        "options": [
+            "Explaining how something happened",
+            "Exploring patterns in data",
+            "Identifying potential future outcomes",
+            "Applying logical and computational reasoning"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "When performing analyses, what is being looked for?",
+        "options": [
+            "Patterns in the past",
+            "Logical and computational reasoning",
+            "Future potential outcomes",
+            "Component parts obtained in an analysis"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What do analyses typically focus on?",
+        "options": [
+            "Explaining how something happened",
+            "Exploring patterns in data",
+            "Identifying potential future outcomes",
+            "Applying logical and computational reasoning"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When performing analyses, what is being analyzed?",
+        "options": [
+            "Future events",
+            "Past events",
+            "Component parts obtained in an analysis",
+            "Logical and computational reasoning"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What does analytics aim to achieve?",
+        "options": [
+            "Explaining how something happened",
+            "Exploring patterns in data",
+            "Identifying potential future outcomes",
+            "Applying logical and computational reasoning"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When performing analyses, what is being looked for?",
+        "options": [
+            "Patterns in the past",
+            "Logical and computational reasoning",
+            "Future potential outcomes",
+            "Component parts obtained in an analysis"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What does analytics typically involve?",
+        "options": [
+            "Explaining how something happened",
+            "Exploring patterns in data",
+            "Identifying potential future outcomes",
+            "Applying logical and computational reasoning"
+        ],
+        "answer": "A"
+    }
+]
